@@ -16,7 +16,7 @@ import com.tgb.service.UserService;
 /**
  * 
 * @ClassName: UserController 
-* @Description: TODO(这里用一句话描述这个类的作用) 
+* @Description: 用户信息的Controller 
 * @author panzh
 * @date 2017-5-23 上午11:06:49 
 *
